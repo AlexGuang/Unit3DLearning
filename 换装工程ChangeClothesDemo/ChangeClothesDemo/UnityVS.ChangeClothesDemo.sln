@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.0
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ChangeClothesDemo.CSharp", "UnityVS.ChangeClothesDemo.CSharp.csproj", "{0F49C8E6-4F55-A7D9-12D1-9CF62BC5B5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ChangeClothesDemo.CSharp.Editor", "UnityVS.ChangeClothesDemo.CSharp.Editor.csproj", "{D3FE0475-EE45-8D47-0919-896F7443BD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F49C8E6-4F55-A7D9-12D1-9CF62BC5B5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F49C8E6-4F55-A7D9-12D1-9CF62BC5B5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F49C8E6-4F55-A7D9-12D1-9CF62BC5B5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F49C8E6-4F55-A7D9-12D1-9CF62BC5B5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FE0475-EE45-8D47-0919-896F7443BD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FE0475-EE45-8D47-0919-896F7443BD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FE0475-EE45-8D47-0919-896F7443BD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FE0475-EE45-8D47-0919-896F7443BD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
